@@ -1,0 +1,12 @@
+
+
+{
+  "welcome": "Welcome to Calculator!",
+  "firstNum": "What's the first number?",
+  "invalNum": "Hmm... that doesn't look like a valid number.",
+  "secNum": "What's the second number?",
+  "operation": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+  "invalOp": "Must choose 1, 2, 3 or 4", 
+  "cont": "Would you like to continue? Yes/No",
+  "invalCont": "Must enter 'Yes' or 'No'"  
+}
